@@ -1,0 +1,19 @@
+# Navigate to your project folder
+cd D:\neyveli project\chatbot
+
+# Create a virtual environment (venv)
+
+python -m venv venv
+
+# Activate the virtual environment
+
+venv\Scripts\activate  
+
+# Install Streamlit inside the virtual environment
+
+pip install streamlit
+
+
+run code 
+
+streamlit run main.py(app_name)
